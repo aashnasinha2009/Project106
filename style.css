@@ -1,0 +1,21 @@
+body{
+    background-color: hotpink;
+    color: mediumvioletred;
+}
+
+#div1{
+    background-color: purple;
+    color: #471061;
+}
+
+.copy_right_footer{
+
+    position:fixed;
+    color:black;
+    bottom:0;
+    width:100%;
+    background-color:cornsilk;
+    text-align: center;
+    text-shadow: 5px 5px 5px lightslategray;
+    
+}
